@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic";
+
 import { UrlInputForm } from "@/components/setup/UrlInputForm";
 import { getServerSession } from "next-auth";
 import { authOptions } from "@/lib/auth";
